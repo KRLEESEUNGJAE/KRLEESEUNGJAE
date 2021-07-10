@@ -1,4 +1,4 @@
-👋 Hello My name is Seungjae Lee 
+👋 Seungjae Lee 
 
 🌏TechStack 
 <!-- tech stack badge -->
