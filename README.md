@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-TechStack
 <!-- tech stack badge -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -10,7 +8,7 @@ TechStack
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
    
 <!-- GitHub stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRLEESEUNGJAE&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRLEESEUNGJAE&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
