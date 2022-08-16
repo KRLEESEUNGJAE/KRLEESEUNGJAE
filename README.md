@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Algorithm.
  
  <!-- Solved.ac Profile -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=karmaup)](https://solved.ac/karmaup/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=karmaup)](https://solved.ac/karmaup/) -->
  
 <!-- GitHub stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRLEESEUNGJAE&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
