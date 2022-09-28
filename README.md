@@ -8,9 +8,8 @@
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white) -->
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) -->
 <!-- ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white) -->
-- 🌱 I’m currently learning Algorithm.
  
- <!-- Solved.ac Profile -->
+<!-- Solved.ac Profile -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=karmaup)](https://solved.ac/karmaup/) -->
  
 <!-- GitHub stats -->
